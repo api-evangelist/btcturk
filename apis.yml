@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://docs.btcturk.com/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/btcturk-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/btcturk-domain-security.yml
   - type: Website
     url: https://docs.btcturk.com/
   - type: PublicAPIsListing
