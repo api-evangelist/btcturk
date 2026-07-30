@@ -1,4 +1,16 @@
 aid: btcturk
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/btcturk.png
 name: BtcTurk
 description: "Real-time cryptocurrency data, graphs and API that allows buy&sell"
 url: https://docs.btcturk.com/
