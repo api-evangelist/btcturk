@@ -39,7 +39,6 @@ apis:
   - name: BtcTurk
     description: "Real-time cryptocurrency data, graphs and API that allows buy&sell"
     humanURL: https://docs.btcturk.com/
-    baseURL: https://docs.btcturk.com/
     tags:
       - Cryptocurrency
     properties:
